@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Connector_FFC-FPC_Extra")(type "KiCad")(uri "${KIPRJMOD}/modules/Connector_FFC-FPC_Extra.pretty")(options "")(descr ""))
+)
